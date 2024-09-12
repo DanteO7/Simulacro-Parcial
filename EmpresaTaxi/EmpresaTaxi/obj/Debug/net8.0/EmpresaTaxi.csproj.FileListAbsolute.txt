@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\bin\Debug\net8.0\EmpresaTaxi.exe
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\bin\Debug\net8.0\EmpresaTaxi.deps.json
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\bin\Debug\net8.0\EmpresaTaxi.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\bin\Debug\net8.0\EmpresaTaxi.dll
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\bin\Debug\net8.0\EmpresaTaxi.pdb
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\EmpresaTaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\EmpresaTaxi.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\EmpresaTaxi.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\EmpresaTaxi.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\EmpresaTaxi.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\EmpresaTaxi.dll
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\refint\EmpresaTaxi.dll
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\EmpresaTaxi.pdb
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\EmpresaTaxi.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\EmpresaTaxi\EmpresaTaxi\obj\Debug\net8.0\ref\EmpresaTaxi.dll

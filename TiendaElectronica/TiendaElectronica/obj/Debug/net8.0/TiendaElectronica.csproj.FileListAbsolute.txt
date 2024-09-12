@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\bin\Debug\net8.0\TiendaElectronica.exe
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\bin\Debug\net8.0\TiendaElectronica.deps.json
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\bin\Debug\net8.0\TiendaElectronica.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\bin\Debug\net8.0\TiendaElectronica.dll
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\bin\Debug\net8.0\TiendaElectronica.pdb
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\TiendaElectronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\TiendaElectronica.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\TiendaElectronica.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\TiendaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\TiendaElectronica.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\TiendaElectronica.dll
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\refint\TiendaElectronica.dll
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\TiendaElectronica.pdb
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\TiendaElectronica.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\TiendaElectronica\TiendaElectronica\obj\Debug\net8.0\ref\TiendaElectronica.dll
