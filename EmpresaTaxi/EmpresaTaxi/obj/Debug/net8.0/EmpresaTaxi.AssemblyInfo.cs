@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmpresaTaxi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0525f850731212e79243804d0d665d295ab47cf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2592052a329551e4ca50215184d5cc79ab374723")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmpresaTaxi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmpresaTaxi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

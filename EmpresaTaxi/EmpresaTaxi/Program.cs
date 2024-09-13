@@ -8,11 +8,11 @@ public class Program
 
         Conductor conductor = new Conductor("Carlos Gómez", "XYZ1234");
 
-        Pasajero pasajero = new Pasajero("Laura Sánchez", "Calle 123", true, conductor);
+        Pasajero pasajero = new Pasajero("Laura Sánchez", "Calle 123", true);
 
         Viaje viaje = new Viaje(pasajero, TipoVehiculo.Estandar, 15);
 
-        pasajero.SolicitarViaje(viaje);
+        pasajero.SolicitarViaje(viaje, conductor);
 
         viaje.TerminarViaje();
     }

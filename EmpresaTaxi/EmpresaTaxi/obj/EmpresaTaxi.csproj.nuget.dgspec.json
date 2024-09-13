@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\EmpresaTaxi.csproj": {}
+    "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\EmpresaTaxi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\EmpresaTaxi.csproj": {
+    "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\EmpresaTaxi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\EmpresaTaxi.csproj",
+        "projectUniqueName": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\EmpresaTaxi.csproj",
         "projectName": "EmpresaTaxi",
-        "projectPath": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\EmpresaTaxi.csproj",
-        "packagesPath": "C:\\Users\\dorsettimartinez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\obj\\",
+        "projectPath": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\EmpresaTaxi.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dorsettimartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

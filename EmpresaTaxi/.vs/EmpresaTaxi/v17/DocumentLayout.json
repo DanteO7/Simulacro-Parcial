@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\",
+  "WorkspaceRootPath": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|c:\\users\\dorsettimartinez\\source\\repos\\empresataxi\\empresataxi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|c:\\users\\dante\\source\\repos\\simulacro-parcial\\empresataxi\\empresataxi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|solutionrelative:empresataxi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|c:\\users\\dorsettimartinez\\source\\repos\\empresataxi\\empresataxi\\modelos\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|solutionrelative:empresataxi\\modelos\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|c:\\users\\dante\\source\\repos\\simulacro-parcial\\empresataxi\\empresataxi\\modelos\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|solutionrelative:empresataxi\\modelos\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|c:\\users\\dorsettimartinez\\source\\repos\\empresataxi\\empresataxi\\modelos\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|c:\\users\\dante\\source\\repos\\simulacro-parcial\\empresataxi\\empresataxi\\modelos\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|solutionrelative:empresataxi\\modelos\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|c:\\users\\dorsettimartinez\\source\\repos\\empresataxi\\empresataxi\\modelos\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|solutionrelative:empresataxi\\modelos\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|c:\\users\\dante\\source\\repos\\simulacro-parcial\\empresataxi\\empresataxi\\modelos\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9260B647-9169-478F-BBC6-2AF6F035F9D5}|EmpresaTaxi\\EmpresaTaxi.csproj|solutionrelative:empresataxi\\modelos\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Viaje.cs",
-              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Viaje.cs",
               "RelativeDocumentMoniker": "EmpresaTaxi\\Modelos\\Viaje.cs",
-              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Viaje.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Viaje.cs",
               "RelativeToolTip": "EmpresaTaxi\\Modelos\\Viaje.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwDAAAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:20:11.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T18:20:11.03Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Conductor.cs",
-              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Conductor.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Conductor.cs",
               "RelativeDocumentMoniker": "EmpresaTaxi\\Modelos\\Conductor.cs",
-              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Conductor.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Conductor.cs",
               "RelativeToolTip": "EmpresaTaxi\\Modelos\\Conductor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:16:20.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T18:16:20.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Pasajero.cs",
-              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Pasajero.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Pasajero.cs",
               "RelativeDocumentMoniker": "EmpresaTaxi\\Modelos\\Pasajero.cs",
-              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Pasajero.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\Modelos\\Pasajero.cs",
               "RelativeToolTip": "EmpresaTaxi\\Modelos\\Pasajero.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAxAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:09:16.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T18:09:16.823Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\Program.cs",
               "RelativeDocumentMoniker": "EmpresaTaxi\\Program.cs",
-              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\EmpresaTaxi\\EmpresaTaxi\\Program.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\Simulacro-Parcial\\EmpresaTaxi\\EmpresaTaxi\\Program.cs",
               "RelativeToolTip": "EmpresaTaxi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T18:06:54.536Z",
               "EditorCaption": ""
